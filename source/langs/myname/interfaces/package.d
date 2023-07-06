@@ -1,1 +1,1 @@
-module uim.myname.interfaces;
+module langs.myname.interfaces;

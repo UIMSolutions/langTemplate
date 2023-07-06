@@ -1,1 +1,1 @@
-module uim.myname.tests;
+module langs.myname.tests;

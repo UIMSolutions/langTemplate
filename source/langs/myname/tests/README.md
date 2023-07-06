@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.tests
+# Package 📦 langs.myname.tests
