@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.classes
+# Package 📦 langs.myname.classes

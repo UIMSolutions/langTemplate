@@ -1,4 +1,4 @@
-module uim.myname;
+module langs.myname;
 
 public { // required uim libraries
   import uim.core;
@@ -6,9 +6,9 @@ public { // required uim libraries
 }
 
 public { // myname packages
-  import uim.myname.classes;
-  import uim.myname.interfaces;
-  import uim.myname.helpers;
-  import uim.myname.mixins;
-  import uim.myname.tests;
+  import langs.myname.classes;
+  import langs.myname.interfaces;
+  import langs.myname.helpers;
+  import langs.myname.mixins;
+  import langs.myname.tests;
 }

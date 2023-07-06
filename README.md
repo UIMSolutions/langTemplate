@@ -1,1 +1,1 @@
-# Library 📚 uim-myname
+# Language package 📚 lang-myname
